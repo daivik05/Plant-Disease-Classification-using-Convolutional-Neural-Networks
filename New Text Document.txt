@@ -1,0 +1,7 @@
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignore other files or directories if needed
