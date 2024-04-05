@@ -21,11 +21,15 @@ The dataset was taken from [Kaggle.com](https://www.kaggle.com/datasets/vipooooo
 
 Ensure you have the following dependencies installed:
 
-- Python 3.x
-- TensorFlow or PyTorch (based on the chosen framework)
-- NumPy
-- Matplotlib (for visualization)
-- OpenCV (for image processing)
+-tensorflow==2.7.0
+-numpy==1.19.5
+-matplotlib==3.2.2
+-seaborn==0.11.1
+-scikit-learn==0.24.2
+-pandas==1.1.5
+-opencv-python==4.5.3.56
+-Pillow==8.2.0
+-tensorflow-hub==0.12.0
 
 You can install the dependencies using `pip`:
 
