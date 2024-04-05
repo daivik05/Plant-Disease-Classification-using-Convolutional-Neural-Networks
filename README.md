@@ -9,7 +9,8 @@ Plant diseases can significantly impact crop yield and quality, leading to econo
 ## Model Architecture
 
 The classification model is built using a convolutional neural network (CNN) architecture. CNNs are well-suited for image classification tasks due to their ability to automatically learn relevant features from raw pixel data. The model architecture comprises multiple convolutional and pooling layers followed by fully connected layers for classification.
-You can download the model present in the [model](https://github.com/daivik05/Plant-Disease-Classification-using-Convolutional-Neural-Networks/blob/master/model/plant_disease_model.h5) folder.
+You can download the model present in the [model](https://github.com/daivik05/Plant-Disease-Classification-using-Convolutional-Neural-Networks/blob/master/model
+) folder.
 
 ## Dataset
 
